@@ -2,9 +2,9 @@
 public class Employee {
 	private static String name;
 	public static void main(String[] args) {
-		 name="Yogesh";
+		 name="Ganesh";
 		 display();
-			
+		 int i=20;	
 	}
 	public static void display()
 	{
