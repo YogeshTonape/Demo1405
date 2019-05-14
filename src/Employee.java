@@ -2,7 +2,7 @@
 public class Employee {
 	private static String name;
 	public static void main(String[] args) {
-		 name="Sandesh";
+		 name="Yogesh";
 		 display();
 			
 	}
